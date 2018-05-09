@@ -1,0 +1,12 @@
+d 2
+ax 1.0
+ay 1.0
+c 0.0
+bx 1.0
+by 1.0
+f const
+fc 0.0
+g ExpVXY
+gc 1.0
+pr vertex
+

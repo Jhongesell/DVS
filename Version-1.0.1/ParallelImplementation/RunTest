@@ -1,0 +1,13 @@
+
+lamboot -v
+
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m LM1 -Nx 5 >  a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m LM2 -Nx 5 >> a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m MF1 -Nx 5 >> a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m MF2 -Nx 5 >> a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m PLM1 -Nx 5 >> a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m PLM2 -Nx 5 >> a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m PMF1 -Nx 5 >> a
+mpirun.mpich -np 3 DVS-DDM file SimetricoExpXY -m PMF2 -Nx 5 >> a
+
+lamhalt -v

@@ -1,0 +1,26 @@
+<map id="DualPrimal.cpp" name="DualPrimal.cpp">
+<area shape="rect" id="node3" href="$Definiciones_8hpp.html" title="Definiciones.hpp" alt="" coords="427,528,554,555"/>
+<area shape="rect" id="node4" href="$DualPrimal_8hpp.html" title="DualPrimal.hpp" alt="" coords="1399,80,1518,107"/>
+<area shape="rect" id="node6" href="$BdNode_8hpp.html" title="BdNode.hpp" alt="" coords="1736,304,1837,331"/>
+<area shape="rect" id="node7" href="$Solvable_8hpp.html" title="Solvable.hpp" alt="" coords="67,453,171,480"/>
+<area shape="rect" id="node9" href="$Interchange_8hpp.html" title="Interchange.hpp" alt="" coords="1037,155,1163,181"/>
+<area shape="rect" id="node16" href="$ErrorControl_8hpp.html" title="ErrorControl.hpp" alt="" coords="1434,528,1561,555"/>
+<area shape="rect" id="node10" href="$PropDef_8hpp.html" title="PropDef.hpp" alt="" coords="613,229,713,256"/>
+<area shape="rect" id="node18" href="$RectSub_8hpp.html" title="RectSub.hpp" alt="" coords="1423,304,1526,331"/>
+<area shape="rect" id="node22" href="$EllipOp_8hpp.html" title="EllipOp.hpp" alt="" coords="1077,379,1171,405"/>
+<area shape="rect" id="node24" href="$Primal_8hpp.html" title="Primal.hpp" alt="" coords="808,379,899,405"/>
+<area shape="rect" id="node27" href="$FunctionV1_8hpp.html" title="FunctionV1.hpp" alt="" coords="369,379,489,405"/>
+<area shape="rect" id="node28" href="$Constant_8hpp.html" title="Constant.hpp" alt="" coords="246,304,354,331"/>
+<area shape="rect" id="node29" href="$LookUpFunction_8hpp.html" title="LookUpFunction.hpp" alt="" coords="726,304,877,331"/>
+<area shape="rect" id="node30" href="$VertPrimal_8hpp.html" title="VertPrimal.hpp" alt="" coords="1090,229,1206,256"/>
+<area shape="rect" id="node31" href="$VertEdgePrimal_8hpp.html" title="VertEdgePrimal.hpp" alt="" coords="1230,229,1378,256"/>
+<area shape="rect" id="node32" href="$AllPrimal_8hpp.html" title="AllPrimal.hpp" alt="" coords="901,304,1006,331"/>
+<area shape="rect" id="node33" href="$NoPrimal_8hpp.html" title="NoPrimal.hpp" alt="" coords="906,229,1014,256"/>
+<area shape="rect" id="node34" href="$CreateBdNodes_8hpp.html" title="CreateBdNodes.hpp" alt="" coords="1519,229,1670,256"/>
+<area shape="rect" id="node14" href="$Properties_8hpp.html" title="Properties.hpp" alt="" coords="1233,304,1348,331"/>
+<area shape="rect" id="node19" href="$InternalBd_8hpp.html" title="InternalBd.hpp" alt="" coords="1176,453,1291,480"/>
+<area shape="rect" id="node25" href="$MatrizDispersa_8hpp.html" title="MatrizDispersa.hpp" alt="" coords="1297,379,1442,405"/>
+<area shape="rect" id="node23" href="$FunctionV_8hpp.html" title="FunctionV.hpp" alt="" coords="467,453,578,480"/>
+<area shape="rect" id="node26" href="$Matriz__Base_8hpp.html" title="Matriz_Base.hpp" alt="" coords="1315,453,1443,480"/>
+<area shape="rect" id="node35" href="$HeapSort_8hpp.html" title="HeapSort.hpp" alt="" coords="1550,304,1661,331"/>
+</map>

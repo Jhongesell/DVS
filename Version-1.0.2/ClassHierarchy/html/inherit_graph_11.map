@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classPrimal.html" title="Primal" alt="" coords="5,81,68,108"/>
+<area shape="rect" id="node2" href="$classAllPrimal.html" title="AllPrimal" alt="" coords="137,5,215,32"/>
+<area shape="rect" id="node3" href="$classNoPrimal.html" title="NoPrimal" alt="" coords="136,56,216,83"/>
+<area shape="rect" id="node4" href="$classVertEdgePrimal.html" title="VertEdgePrimal" alt="" coords="116,107,236,133"/>
+<area shape="rect" id="node5" href="$classVertPrimal.html" title="VertPrimal" alt="" coords="132,157,220,184"/>
+</map>

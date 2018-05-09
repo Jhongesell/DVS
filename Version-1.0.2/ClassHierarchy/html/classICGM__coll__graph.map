@@ -1,0 +1,9 @@
+<map id="ICGM" name="ICGM">
+<area shape="rect" id="node2" href="$classCGM.html" title="{CGM\n||+ CGM()\l+ CGM()\l+ ~CGM()\l+ clean()\l+ inicializa()\l+ solve()\l+ getIter()\l+ setMaxIter()\l+ setEpsilon()\l# norm()\l}" alt="" coords="212,928,327,1137"/>
+<area shape="rect" id="node3" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="64,408,176,559"/>
+<area shape="rect" id="node7" href="$classErrorControl.html" title="Error Control. " alt="" coords="157,160,309,384"/>
+<area shape="rect" id="node5" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="5,612,80,689"/>
+<area shape="rect" id="node10" href="$classMatrizDispersa.html" title="{MatrizDispersa\n||+ MatrizDispersa()\l+ MatrizDispersa()\l+ ~MatrizDispersa()\l+ tamanoBanda()\l+ inicializa()\l+ asigna()\l+ retorna()\l+ retornaNumeroColumnasBanda()\l+ retornaNumeroColumna()\l+ retornaValorColumna()\l+ multiplica()\l+ visualiza()\l+ visualizaMatricesInternas()\l&#45; solicitaMemoria()\l}" alt="" coords="627,899,877,1167"/>
+<area shape="rect" id="node11" href="$classMatriz__Base.html" title="Clase base para el trabajar con matrices. " alt="" coords="721,583,863,719"/>
+<area shape="rect" id="node9" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="366,605,461,697"/>
+</map>

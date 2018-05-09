@@ -1,0 +1,56 @@
+// Grupo de Modelacion Matematica y Computacional
+// Instituto de Goefisica
+// Universidad Nacional Autonoma de Mexico
+// Mexico D.F.
+//
+// Autores:
+// Ismael Herrera Revilla
+// Robert Yates Smit
+// Antonio Carrillo Ledesma
+//
+// Codigo liberado bajo la licencia GPL ver. 2.0
+
+
+
+#ifndef  __SfExpXYZ__
+#define __SfExpXYZ__
+
+
+#include <math.h>
+#include "Definiciones.hpp"
+#include "FunctionV1.hpp"
+
+
+
+class SfExpXYZ : public FunctionV1
+{
+private:
+
+   ldouble var;
+
+
+public:
+
+   SfExpXYZ(ldouble b)
+   {
+      var = b;
+   }
+
+   inline ldouble eval(int d, ldouble *x)
+   {
+      return ( 1.0 - x[1] * x[2] * x[1] * x[2] - x[0] * x[2] * x[0] * x[2] - x[0] * x[1] * x[0] * x[1] ) * exp(x[0] * x[1] * x[2]);
+   }
+
+   inline ldouble getVar(void)
+   {
+      return var;
+   }
+
+   inline void setVar(ldouble b)
+   {
+      var = b;
+   }
+
+};
+
+#endif

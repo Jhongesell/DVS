@@ -1,0 +1,9 @@
+# Corrida de prueba NoSimetricoConceicao, debe ser compilado definiendo COEF_CONSTANTES_ESTABILIZA en Definiciones.hpp
+
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 8  -bx 10000.0 -by 30000.0  > PMF1a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 16 -bx 10000.0 -by 30000.0  > PMF1b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 32 -bx 10000.0 -by 30000.0  > PMF1c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 64 -bx 10000.0 -by 30000.0  > PMF1d.txt
+
+echo "PMF1"
+grep itera PMF1*.txt

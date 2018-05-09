@@ -1,0 +1,11 @@
+<map id="DualPrimal" name="DualPrimal">
+<area shape="rect" id="node8" href="$classInterchange.html" title="{Interchange\n|# bdValues\l# nOmega\l# nDim\l# zero\l# one\l# f\l# g\l# sf\l# sg\l# fc\land 16 more...\l|+ Interchange()\l+ Interchange()\l+ ~Interchange()\l+ initialize()\l+ calcSP()\l+ getND()\l+ getNP()\l+ getNPrimals()\l+ getNDuals()\l+ getnOmega()\land 29 more...\l# genGeom()\l}" alt="" coords="683,1555,816,1973"/>
+<area shape="rect" id="node41" href="$classEllipOp.html" title="{EllipOp\n|+ a\l+ b\l+ c\l+ f\l+ g\l+ sol\l|+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="605,1121,731,1442"/>
+<area shape="rect" id="node4" href="$classErrorControl.html" title="Error Control." alt="" coords="5,169,157,426"/>
+<area shape="rect" id="node12" href="$classProperties.html" title="{Properties\n|# keys\l# vals\l|+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="492,643,615,821"/>
+<area shape="rect" id="node19" href="$classCreateBdNodes.html" title="{CreateBdNodes\n|+ nD\l+ nP\l+ nDual\l+ nPrimal\l+ maxBd\l+ ibd\l+ ibdAll\l+ dualMult\l+ bdAll\l+ bdDuals\l+ bdPrimals\l|+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="187,603,344,861"/>
+<area shape="rect" id="node10" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="469,1161,581,1402"/>
+<area shape="rect" id="node30" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="816,667,936,797"/>
+<area shape="rect" id="node36" href="$classPrimal.html" title="{Primal\n|+ KNOWN\l+ INTERIOR\l+ INTBD\l+ VERTEX\l+ EDGE\l+ FACE\l+ PRIMAL\l|+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="993,886,1092,1095"/>
+<area shape="rect" id="node28" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="755,1233,845,1330"/>
+</map>

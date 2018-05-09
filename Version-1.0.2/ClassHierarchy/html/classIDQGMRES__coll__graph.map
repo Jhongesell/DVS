@@ -1,0 +1,8 @@
+<map id="IDQGMRES" name="IDQGMRES">
+<area shape="rect" id="node2" href="$classDQGMRES.html" title="{DQGMRES\n||+ DQGMRES()\l+ DQGMRES()\l+ ~DQGMRES()\l+ clean()\l+ inicializa()\l+ applyOmega()\l+ solve()\l+ getIter()\l+ setMaxIter()\l+ setEpsilon()\l}" alt="" coords="117,549,245,759"/>
+<area shape="rect" id="node3" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="125,197,237,347"/>
+<area shape="rect" id="node6" href="$classErrorControl.html" title="Error Control. " alt="" coords="350,160,502,384"/>
+<area shape="rect" id="node9" href="$classMatrizDispersa.html" title="{MatrizDispersa\n||+ MatrizDispersa()\l+ MatrizDispersa()\l+ ~MatrizDispersa()\l+ tamanoBanda()\l+ inicializa()\l+ asigna()\l+ retorna()\l+ retornaNumeroColumnasBanda()\l+ retornaNumeroColumna()\l+ retornaValorColumna()\l+ multiplica()\l+ visualiza()\l+ visualizaMatricesInternas()\l&#45; solicitaMemoria()\l}" alt="" coords="299,808,550,1076"/>
+<area shape="rect" id="node10" href="$classMatriz__Base.html" title="Clase base para el trabajar con matrices. " alt="" coords="455,586,597,722"/>
+<area shape="rect" id="node8" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="5,226,100,318"/>
+</map>

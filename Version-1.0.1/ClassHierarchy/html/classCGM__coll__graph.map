@@ -1,0 +1,6 @@
+<map id="CGM" name="CGM">
+<area shape="rect" id="node2" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="5,217,117,378"/>
+<area shape="rect" id="node10" href="$classErrorControl.html" title="Error Control." alt="" coords="141,169,293,426"/>
+<area shape="rect" id="node6" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="317,257,392,338"/>
+<area shape="rect" id="node15" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="567,249,660,346"/>
+</map>

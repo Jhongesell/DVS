@@ -1,0 +1,10 @@
+<map id="Interchange" name="Interchange">
+<area shape="rect" id="node2" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="171,1161,283,1402"/>
+<area shape="rect" id="node4" href="$classProperties.html" title="{Properties\n|# keys\l# vals\l|+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="163,643,285,821"/>
+<area shape="rect" id="node6" href="$classErrorControl.html" title="Error Control." alt="" coords="157,169,309,426"/>
+<area shape="rect" id="node15" href="$classCreateBdNodes.html" title="{CreateBdNodes\n|+ nD\l+ nP\l+ nDual\l+ nPrimal\l+ maxBd\l+ ibd\l+ ibdAll\l+ dualMult\l+ bdAll\l+ bdDuals\l+ bdPrimals\l|+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="399,603,556,861"/>
+<area shape="rect" id="node37" href="$classEllipOp.html" title="{EllipOp\n|+ a\l+ b\l+ c\l+ f\l+ g\l+ sol\l|+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="685,1121,811,1442"/>
+<area shape="rect" id="node26" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="811,667,931,797"/>
+<area shape="rect" id="node32" href="$classPrimal.html" title="{Primal\n|+ KNOWN\l+ INTERIOR\l+ INTBD\l+ VERTEX\l+ EDGE\l+ FACE\l+ PRIMAL\l|+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="1120,886,1219,1095"/>
+<area shape="rect" id="node24" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="1013,1233,1104,1330"/>
+</map>

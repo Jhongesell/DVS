@@ -1,0 +1,16 @@
+<map id="MF2" name="MF2">
+<area shape="rect" id="node2" href="$classDPMethod.html" title="{DPMethod\n||+ DPMethod()\l+ ~DPMethod()\l+ initialize()\l+ clean()\l+ genInverse()\l+ getSize()\l+ print()\l+ printTime()\l+ prCoord()\l+ rhs()\l+ solve()\l+ analyticSolution()\l+ conditionalNumber()\l# iniInterchage()\l}" alt="" coords="658,1909,826,2177"/>
+<area shape="rect" id="node3" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="599,1637,693,1729"/>
+<area shape="rect" id="node4" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="993,1645,1067,1722"/>
+<area shape="rect" id="node6" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="19,408,131,559"/>
+<area shape="rect" id="node11" href="$classErrorControl.html" title="Error Control. " alt="" coords="269,160,421,384"/>
+<area shape="rect" id="node13" href="$classDualPrimal.html" title="{DualPrimal\n||+ DualPrimal()\l+ ~DualPrimal()\l+ a()\l+ calcValues()\l+ fromSubdomains()\l+ genMats()\l+ getNDual()\l+ j()\l+ multS()\l+ solveAPP()\l+ solveS()\l+ toSubdomains()\l}" alt="" coords="811,1564,969,1803"/>
+<area shape="rect" id="node14" href="$classInterchange.html" title="{Interchange\n|# fc\l# gc\l# domain\l# c\l|+ Interchange()\l+ Interchange()\l+ ~Interchange()\l+ initialize()\l+ calcSP()\l+ getND()\l+ getNP()\l+ getNPrimals()\l+ getNDuals()\l+ getnOmega()\land 29 more...\l# genGeom()\l}" alt="" coords="675,1219,809,1501"/>
+<area shape="rect" id="node24" href="$classEllipOp.html" title="{EllipOp\n||+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="1231,888,1357,1112"/>
+<area shape="rect" id="node9" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="232,888,345,1112"/>
+<area shape="rect" id="node10" href="$classProperties.html" title="{Properties\n||+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="231,583,354,733"/>
+<area shape="rect" id="node15" href="$classCreateBdNodes.html" title="{CreateBdNodes\n||+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="529,612,688,704"/>
+<area shape="rect" id="node20" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="953,597,1073,719"/>
+<area shape="rect" id="node22" href="$classPrimal.html" title="{Primal\n||+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="670,757,769,864"/>
+<area shape="rect" id="node19" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="827,954,919,1046"/>
+</map>

@@ -1,0 +1,15 @@
+d 2
+Xmin -1
+Xmax 1
+Ymin -1
+Ymax 1
+ax 1e-4
+ay 1e-4
+bx 1.0
+by 1.0
+c 0.0001
+f const
+fc 0.0
+g Disc14
+gc 1.0
+pr vertex

@@ -1,0 +1,19 @@
+<map id="MF1MPI" name="MF1MPI">
+<area shape="rect" id="node2" href="$classDPMainMPI.html" title="Clase base para definir a los metodos DVS&#45;DDM." alt="" coords="487,1587,639,1877"/>
+<area shape="rect" id="node4" href="$classEsquemaMEMPI.html" title="Clase base para definir el Esquema Maestro&#45;Esclavo en MPI." alt="" coords="437,670,650,863"/>
+<area shape="rect" id="node6" href="$classErrorControl.html" title="Error Control." alt="" coords="1493,169,1645,426"/>
+<area shape="rect" id="node38" href="$classDPMethod.html" title="{DPMethod\n|# printv\l# epsilon\l# nDual\l# nOmega\l# nDim\l# u\l# rhss\l# scr\l# time0\l# time1\l# time2\l# time3\l|+ DPMethod()\l+ ~DPMethod()\l+ initialize()\l+ clean()\l+ genInverse()\l+ getSize()\l+ print()\l+ printTime()\l+ prCoord()\l+ rhs()\l+ solve()\l+ analyticSolution()\l+ conditionalNumber()\l# iniInterchage()\l}" alt="" coords="1205,2457,1373,2922"/>
+<area shape="rect" id="node51" href="$classProperties.html" title="{Properties\n|# keys\l# vals\l|+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="1590,678,1713,855"/>
+<area shape="rect" id="node57" href="$classDualPrimal.html" title="{DualPrimal\n|# nPrimal\l# nDual\l# XP\l# YP\l# nD\l# nP\l|+ DualPrimal()\l+ ~DualPrimal()\l+ a()\l+ calcValues()\l+ fromSubdomains()\l+ genMats()\l+ getNDual()\l+ j()\l+ multS()\l+ solveAPP()\l+ solveS()\l+ toSubdomains()\l}" alt="" coords="1347,2054,1505,2391"/>
+<area shape="rect" id="node61" href="$classInterchange.html" title="{Interchange\n|# bdValues\l# nOmega\l# nDim\l# zero\l# one\l# f\l# g\l# sf\l# sg\l# fc\land 16 more...\l|+ Interchange()\l+ Interchange()\l+ ~Interchange()\l+ initialize()\l+ calcSP()\l+ getND()\l+ getNP()\l+ getNPrimals()\l+ getNDuals()\l+ getnOmega()\land 29 more...\l# genGeom()\l}" alt="" coords="1025,1523,1158,1941"/>
+<area shape="rect" id="node66" href="$classCreateBdNodes.html" title="{CreateBdNodes\n|+ nD\l+ nP\l+ nDual\l+ nPrimal\l+ maxBd\l+ ibd\l+ ibdAll\l+ dualMult\l+ bdAll\l+ bdDuals\l+ bdPrimals\l|+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="1257,638,1414,895"/>
+<area shape="rect" id="node45" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="1895,451,2007,613"/>
+<area shape="rect" id="node18" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="779,702,899,831"/>
+<area shape="rect" id="node26" href="$classEllipOp.html" title="{EllipOp\n|+ a\l+ b\l+ c\l+ f\l+ g\l+ sol\l|+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="777,1089,902,1410"/>
+<area shape="rect" id="node31" href="$classPrimal.html" title="{Primal\n|+ KNOWN\l+ INTERIOR\l+ INTBD\l+ VERTEX\l+ EDGE\l+ FACE\l+ PRIMAL\l|+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="539,1145,638,1354"/>
+<area shape="rect" id="node16" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="662,1201,753,1298"/>
+<area shape="rect" id="node36" href="$classMF1.html" title="{MF1\n||+ MF1()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="813,2974,906,3135"/>
+<area shape="rect" id="node40" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="1059,2174,1153,2271"/>
+<area shape="rect" id="node42" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="1177,2182,1251,2263"/>
+<area shape="rect" id="node49" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="1590,1129,1702,1370"/>
+</map>

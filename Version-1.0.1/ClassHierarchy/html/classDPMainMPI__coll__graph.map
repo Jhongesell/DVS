@@ -1,0 +1,8 @@
+<map id="DPMainMPI" name="DPMainMPI">
+<area shape="rect" id="node2" href="$classEsquemaMEMPI.html" title="Clase base para definir el Esquema Maestro&#45;Esclavo en MPI." alt="" coords="5,830,219,1023"/>
+<area shape="rect" id="node4" href="$classErrorControl.html" title="Error Control." alt="" coords="36,249,188,506"/>
+<area shape="rect" id="node16" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="315,313,435,442"/>
+<area shape="rect" id="node24" href="$classEllipOp.html" title="{EllipOp\n|+ a\l+ b\l+ c\l+ f\l+ g\l+ sol\l|+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="357,766,483,1087"/>
+<area shape="rect" id="node29" href="$classPrimal.html" title="{Primal\n|+ KNOWN\l+ INTERIOR\l+ INTBD\l+ VERTEX\l+ EDGE\l+ FACE\l+ PRIMAL\l|+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="837,531,936,741"/>
+<area shape="rect" id="node14" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="243,878,333,975"/>
+</map>

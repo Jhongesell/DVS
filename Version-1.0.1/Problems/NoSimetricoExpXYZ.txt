@@ -1,0 +1,21 @@
+﻿
+El Problema a resolver es: 
+-Laplaciano(u)+Gradiente(u)=(yz + xz + xy-yz'2 -xz'2-xy'2)Exp(XYZ); (x,y,z) en [0,1]X[0,1]X[0,1]
+u(x,y,z)=Exp(XYZ) en la frontera
+u(x,y,z)=Exp(XYZ) Es la solucion del problema
+
+
+d 3		// EL problema está definido en 3 Dimensiones
+ax 1.0		// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0		// Entrada a(2,2) de la matriz para la forma de divergencia
+az 1.0		// Entrada a(3,3) de la matriz para la forma de divergencia
+c 0.0	   	// Coeficiente del término lineal
+bx 1.0		// Entrada b(1) del vector correspondiente al término advectivo
+by 1.0		// Entrada b(2) del vector correspondiente al término advectivo
+bz 1.0		// Entrada b(3) del vector correspondiente al término advectivo
+f fExp(XYZ)	// Función del lado derecho, en este caso f(x)=(yz + xz + xy + yz'2 + xz'2 + xy'2)Exp(XYZ)
+fc 1.0		// Coeficiente correspondiente a la función del lado derecho
+g ExpXYZ	// Condición de frontera; u(x,y)=exp(XYZ)
+gc 1.0		// Coeficiente de la función de frontera; igual a 1
+pr vertedge	// Los primales están definidos en los vertices
+

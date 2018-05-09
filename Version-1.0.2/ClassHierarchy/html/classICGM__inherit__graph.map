@@ -1,0 +1,6 @@
+<map id="ICGM" name="ICGM">
+<area shape="rect" id="node2" href="$classCGM.html" title="{CGM\n|# n\l# r\l# p\l# v\l# alpha\l# beta\l# gamma\l# lambda\l# eps\l# mu\l# A\l# dotP\l# nIter\l# nMaxIter\l# ce\l|+ CGM()\l+ CGM()\l+ ~CGM()\l+ clean()\l+ inicializa()\l+ solve()\l+ getIter()\l+ setMaxIter()\l+ setEpsilon()\l# norm()\l}" alt="" coords="5,204,120,619"/>
+<area shape="rect" id="node3" href="$classSolvable.html" title="{Solvable\n|# name\l|+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="7,5,119,156"/>
+<area shape="rect" id="node4" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="145,365,239,457"/>
+<area shape="rect" id="node5" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="264,373,339,450"/>
+</map>

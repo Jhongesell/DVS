@@ -1,0 +1,6 @@
+<map id="PLM1" name="PLM1">
+<area shape="rect" id="node9" href="$classPLM1MPI.html" title="Clase para definir el metodo PLM&#45;1 de DVS&#45;DDM." alt="" coords="41,910,169,1039"/>
+<area shape="rect" id="node2" href="$classDPMethod.html" title="{DPMethod\n|# props\l# printv\l# epsilon\l# nDual\l# nOmega\l# nDim\l# dualp\l# inter\l# u\l# rhss\land 7 more...\l|+ DPMethod()\l+ ~DPMethod()\l+ initialize()\l+ clean()\l+ genInverse()\l+ getSize()\l+ print()\l+ printTime()\l+ prCoord()\l+ rhs()\l+ solve()\l+ analyticSolution()\l+ conditionalNumber()\l# iniInterchage()\l}" alt="" coords="21,153,189,602"/>
+<area shape="rect" id="node4" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="5,6,99,103"/>
+<area shape="rect" id="node6" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="123,14,197,95"/>
+</map>

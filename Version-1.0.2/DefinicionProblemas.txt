@@ -1,0 +1,101 @@
+Para definir un problema, hay que editar un archivo <prob1> dentro de la carpeta
+Problems para usarse en tiempo de ejecucion como:
+
+   $ ./DVS-DDM file prob1 -m MF1  -p 3 -Nx 10 -Ny 4 -Mx 10 -My 10
+
+Conteniendo los siguientes campos:
+
+   Dimension:
+      d <2 | 3>
+
+
+   Dominio:
+      Xmin <val = 0.0>
+      Xmax <val = 1.0>
+      Ymin <val = 0.0>
+      Ymax <val = 1.0>
+      Zmin <val = 0.0>
+      Zmax <val = 1.0>
+
+
+   Ecuacion:
+    -Laplaciano(u)+Gradiente(u) + u = f(x,y,z)
+    -(ax * Uxx + ay * Uyy + az * Uzz) + (bx * Ux + by * Uy + bz * Uz) + c * U = fc * f(x,y,z)
+      ax <val = 0.0>
+      ay <val = 0.0>
+      az <val = 0.0>
+      bx <val = 0.0>
+      by <val = 0.0>
+      bz <val = 0.0>
+      c  <val = 0.0>
+      f  <funcion | const>
+      fc <valor = 0.0>
+
+
+   Frontera:
+    Dirichlet  u(x,y,z) = gc * g(x,y,z) en la frontera de U
+      g  <funcion | const>
+      gc <valor = 0.0>
+
+
+   Nodos Primales:
+      pr <vertex | vertedge | noPrimal | all>
+
+
+
+
+Definicion de funciones para especificar el lado derecho y la condicion 
+de frontera, en <funcion> se debe poner una cadana ExpXY, la cual debe 
+ser definida en LookUpFunction.cpp dentro de Problems como:
+
+   else if (strcmp(s,"ExpXY") == 0)
+      {
+         ExpXY *f = new (nothrow) ExpXY(1.0);
+         if (f == NULL) ce.memoryError("f");
+         return f;
+      }
+
+
+Y expecificada en ExpXY.hpp dentro de Problems como:
+
+   #ifndef __ExpXY__
+   #define __ExpXY__
+
+   #include "FunctionV1.hpp"
+   #include <math.h>
+
+
+
+   class ExpXY : public FunctionV1
+   {
+   private:
+
+      double var;
+
+
+   public:
+
+      ExpXY(double b)
+      {
+         var = b;
+      }
+
+      inline double eval(int d, double *x)
+      {
+         double p = (var == 0.0 ? 1.0 - x[0]*x[0] - x[1]*x[1] : var);
+         return p*exp(x[0]*x[1]);
+      }
+
+      inline double getVar(void)
+      {
+         return var;
+      }
+
+      inline void setVar(double b)
+      {
+         var = b;
+      }
+
+   };
+
+   #endif

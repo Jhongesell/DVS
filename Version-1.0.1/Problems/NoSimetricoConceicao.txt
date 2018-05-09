@@ -1,0 +1,19 @@
+﻿
+El Problema a resolver es: 
+-Laplaciano(u)+b punto Gradiente(u)=0; (x,y) en [0,1]X[0,1]
+u(x,y)=Disc
+La direccion del coeficiente advectivo es (1,3). Y se toman valores (10,30), (100,300), (1000,3000), (10000,30000), (100000,300000)
+La Solucion es una funcion discontinua
+
+d 2		// EL problema está definido en 2 Dimensiones
+ax 1.0		// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0		// Entrada a(2,2) de la matriz para la forma de divergencia
+c 0.0	   	// Coeficiente del término lineal
+bx 1.0		// Entrada b(1) del vector correspondiente al término advectivo
+by 3.0		// Entrada b(2) del vector correspondiente al término advectivo
+f const		// Función del lado derecho, en este caso f(x)=0
+fc 0.0		// Coeficiente correspondiente a la función del lado derecho
+g Disc		// Condición de frontera; u(x,y)=Disc
+gc 1.0		// Coeficiente de la función de frontera; igual a 1
+pr vertex	// Los primales están definidos en los vertices
+

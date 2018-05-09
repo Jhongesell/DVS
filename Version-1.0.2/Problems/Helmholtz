@@ -1,0 +1,15 @@
+d 2
+Xmin  -6.2832
+Xmax   6.2832
+Ymin  -6.2832
+Ymax   6.2832
+ax 1.0
+ay 1.0
+bx 0.0
+by 0.0
+c -10
+f const
+fc 0.0
+g const 
+gc 1.0
+pr vertex

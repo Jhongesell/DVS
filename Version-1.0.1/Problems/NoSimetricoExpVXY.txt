@@ -1,0 +1,19 @@
+﻿
+El Problema a resolver es: 
+-Laplaciano(u)+Gradiente(u)=0; (x,y) en [0,1]X[0,1]
+u(x,y)=exp(x+y) en la frontera
+u(x,y)=exp(x+y) Es la solucion del problema
+
+
+d 2		// EL problema está definido en 2 Dimensiones
+ax 1.0		// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0		// Entrada a(2,2) de la matriz para la forma de divergencia
+c 0.0	   	// Coeficiente del término lineal
+bx 1.0		// Entrada b(1) del vector correspondiente al término advectivo
+by 1.0		// Entrada b(2) del vector correspondiente al término advectivo
+f const		// Función del lado derecho, en este caso f(x)=0
+fc 0.0		// Coeficiente correspondiente a la función del lado derecho
+g ExpVXY	// Condición de frontera; u(x,y)=exp(x+y)
+gc 1.0		// Coeficiente de la función de frontera; igual a 1
+pr vertex	// Los primales están definidos en los vertices
+

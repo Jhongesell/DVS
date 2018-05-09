@@ -1,0 +1,65 @@
+Grupo de Modelacion Matematica y Computacional
+Instituto de Goefisica
+Universidad Nacional Autonoma de Mexico
+Mexico D.F.
+
+Autores:
+Ismael Herrera Revilla
+Robert Yates Smit
+Antonio Carrillo Ledesma
+
+Codigo liberado bajo la licencia GPL ver. 2.0
+
+
+1) Para graficar con GNUPLOT la solucion del problema, esta debe de
+ser guardada en un archivo txt, que contenga la lista de coordenadas 
+y la solucion en la coordenada, i.e. 
+   x1 y1 ... val1
+   x2 y2 ... val2
+
+   xn yn ... valn
+
+para ello usar en DVS-DDM la opcion (-p 3), por ejemplo:
+  ./DVS-DDM file prob1 -m LM1 -p 3 -Nx 10 -Ny 4 -Mx 10 -My 10 > Solucion.txt
+
+
+
+2) Abrir GNUPLOT
+
+3) Para graficar en 2D el archivo Solucion.txt usar
+   plot 'Solucion.txt' using 1:2 with dot
+
+4) Para graficar en 3D  el archivo Solucion.txt mediante puntos usar
+   splot 'Solucion.txt' using 1:2:3 with dot
+Con color azul
+   splot 'Solucion.txt' using 1:2:3 with dot lc rgb "blue"
+
+5) Para graficar en 3D  el archivo Solucion.txt mediante un modelo de alambre usar
+   set dgrid3d
+   splot 'Solucion.txt' using 1:2:3 with lines
+
+6) Para graficar en 3D  el archivo Solucion.txt mediante un modelo de alambre y los contornos usar
+   set dgrid3d
+   set contour both
+   set hidden3d
+   splot 'Solucion.txt' using 1:2:3 with lines
+
+7) Para graficar en 3D  el archivo Solucion.txt mediante una sabana usar
+   set dgrid3d
+   set pm3d
+   set hidden3d
+   splot 'Solucion.txt' using 1:2:3 with dot
+
+8) Para graficar en 3D  el archivo Solucion.txt mediante una sabana usar
+   set dgrid3d
+   set pm3d
+   set style line 100 lt 5 lw 0.5
+   set pm3d hidden3d 100
+   splot 'Solucion.txt' using 1:2:3 with dot
+
+9) Para graficar en 3D  el archivo Solucion.txt mediante una sabana y contornos usar
+   set dgrid3d 
+   set pm3d    
+   set contour both
+   set hidden3d
+   splot 'Solucion.txt' using 1:2:3 with lines

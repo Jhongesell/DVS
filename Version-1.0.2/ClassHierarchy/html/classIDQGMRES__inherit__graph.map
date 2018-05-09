@@ -1,0 +1,5 @@
+<map id="IDQGMRES" name="IDQGMRES">
+<area shape="rect" id="node2" href="$classDQGMRES.html" title="{DQGMRES\n|# n\l# k\l# k1\l# maxIter\l# nIter\l# mult\l# gm\l# gm1\l# p\l# cs\land 6 more...\l|+ DQGMRES()\l+ DQGMRES()\l+ ~DQGMRES()\l+ clean()\l+ inicializa()\l+ applyOmega()\l+ solve()\l+ getIter()\l+ setMaxIter()\l+ setEpsilon()\l}" alt="" coords="5,204,133,560"/>
+<area shape="rect" id="node3" href="$classSolvable.html" title="{Solvable\n|# name\l|+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="13,5,125,156"/>
+<area shape="rect" id="node4" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="158,336,253,428"/>
+</map>

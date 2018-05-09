@@ -1,0 +1,16 @@
+d 3
+Xmin -1
+Xmax 1
+Ymin -1
+Ymax 1
+Zmin -1
+Zmax 1
+ax 1.0
+ay 1.0
+az 1.0
+c 0.0
+f SinPinxSinPinySinPinz
+fc 1.0
+g const
+gc 0.0
+pr vertedge

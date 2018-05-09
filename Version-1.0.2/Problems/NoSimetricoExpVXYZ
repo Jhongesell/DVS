@@ -1,0 +1,13 @@
+d 3
+ax 1.0
+ay 1.0
+az 1.0
+bx 1.0
+by 1.0
+bz 1.0
+c 0.0
+f const
+fc 0.0
+g ExpVXYZ
+gc 1.0
+pr vertedge

@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['n',['N',['../classRectSub.html#a24eaf7c2daf9343be98cf04208fa6188',1,'RectSub::N()'],['../classBandCholesky.html#a73011dd32d076533562eb3fd25d184a3',1,'BandCholesky::n()'],['../classBandSolve.html#ae814bd2eedcae3364f0ecc962b66ab11',1,'BandSolve::n()'],['../classCGM.html#a63eced767e576067a028a0981d423b6b',1,'CGM::n()'],['../classDQGMRES.html#a40597d382f5e4a203de7f6e64c7ddba3',1,'DQGMRES::n()'],['../classHeapSort.html#a038a0092a70cf3327e5bc9b10b0ad6de',1,'HeapSort::n()'],['../classMultBandSym.html#a6a9aaea1626509da9ccf133f8fef33e4',1,'MultBandSym::n()'],['../classSinPinxSinPiny.html#a6db2f9958672d0ef57cc87eb5784bbef',1,'SinPinxSinPiny::n()'],['../classSinPinxSinPinySinPinz.html#a26fd7605e7b0d81a1b1a455a4d96c173',1,'SinPinxSinPinySinPinz::n()']]],
+  ['name',['name',['../classAllPrimal.html#a1c849f4ed067e2c5c54782a195d4ffad',1,'AllPrimal::name()'],['../classNoPrimal.html#a96cfeaaad346da3902038b365e2adae2',1,'NoPrimal::name()'],['../classSolvable.html#a7433c9b1241fea7e69850b912205fb93',1,'Solvable::name()'],['../classVertEdgePrimal.html#a0d04d41e31caf8756835539890b0a9b5',1,'VertEdgePrimal::name()'],['../classVertPrimal.html#a6ea17c27c24dd37f817a271ac7b17214',1,'VertPrimal::name()']]],
+  ['nbd',['nBd',['../classRectSub.html#a53a0dde269709faa8e887ea1b0697742',1,'RectSub']]],
+  ['nd',['nD',['../classCreateBdNodes.html#ad85db218c0ea74f83804727d8e1020f5',1,'CreateBdNodes::nD()'],['../classDualPrimal.html#a9d11ebd486bcc70b4e8e76c9debaa9b2',1,'DualPrimal::nD()']]],
+  ['ndim',['nDim',['../classDPMainMPI.html#ab4e261e6008f76d64ea66ae7371bd295',1,'DPMainMPI::nDim()'],['../classDPMethod.html#aabda4db03ed800bacc08fadaf7d7301e',1,'DPMethod::nDim()'],['../classEllipOp.html#a002d328f0427d2edff152f43e59622ce',1,'EllipOp::nDim()'],['../classInterchange.html#a2d3c6dc235d9dcad3f8f62073ddb4f84',1,'Interchange::nDim()'],['../classInternalBd.html#a671802e97f7d0172574ffc7564a202f1',1,'InternalBd::nDim()'],['../classRectSub.html#a5422e465ff80f07cae17c609c253bb31',1,'RectSub::nDim()']]],
+  ['ndual',['nDual',['../classCreateBdNodes.html#ad5ab3f48441e77c09650dc158ebd9608',1,'CreateBdNodes::nDual()'],['../classDPMethod.html#ab288e499e2868918e41194d191f8f1cc',1,'DPMethod::nDual()'],['../classDualPrimal.html#a0cb40499aae66244b545806a1f81ebb7',1,'DualPrimal::nDual()']]],
+  ['nfull',['nFull',['../classRectSub.html#a157dd2d5fb5facf717bf9b54993cd129',1,'RectSub']]],
+  ['nint',['nInt',['../classRectSub.html#a16b6b42139aba14a263ede77aec551e9',1,'RectSub']]],
+  ['niter',['nIter',['../classCGM.html#ac5813829583007524ccfb4aa515578fb',1,'CGM::nIter()'],['../classDQGMRES.html#aa99ec19ef641f0d71e85e3e5cc56990c',1,'DQGMRES::nIter()']]],
+  ['nmaxiter',['nMaxIter',['../classCGM.html#a0d5e9276d54759e18d81773093581ed0',1,'CGM::nMaxIter()'],['../classDQGMRES.html#a3ca31b575cce988dedc065f56e8f6763',1,'DQGMRES::nMaxIter()']]],
+  ['nmb',['Nmb',['../classMatriz__Base.html#a4f0e1223dfc0d838c547d517cc693ef3',1,'Matriz_Base']]],
+  ['nmclass',['nmClass',['../classErrorControl.html#ac2970e37333ad45c4a06892f000346da',1,'ErrorControl']]],
+  ['nmfunction',['nmFunction',['../classErrorControl.html#a1e2e91d226e36b3b58a0ce66a562b9b9',1,'ErrorControl']]],
+  ['node',['node',['../classBdNode.html#a0609814a5020408dc9fb915738b0ec99',1,'BdNode::node()'],['../classInternalBd.html#a144089421e377ee05aa02a9f5ff674f1',1,'InternalBd::node()']]],
+  ['nomega',['nOmega',['../classDPMainMPI.html#ae6e9f71e81558ac71461b0d3516d49a8',1,'DPMainMPI::nOmega()'],['../classDPMethod.html#a6fca0650ee66ed9be6e93d4f7dcd3920',1,'DPMethod::nOmega()'],['../classInterchange.html#a457adaa19a89150e4ae93f6b1f598968',1,'Interchange::nOmega()']]],
+  ['np',['np',['../classEsquemaMEMPI.html#a680efaf1d44c160a84d2739878ba67fc',1,'EsquemaMEMPI::np()'],['../classRectSub.html#a5d49ad60b5713cd0766af398af39a535',1,'RectSub::np()'],['../classCreateBdNodes.html#a99b8ec0871178ef96ce299dfa752b984',1,'CreateBdNodes::nP()'],['../classDualPrimal.html#a646ce6daa76761caaf22ff833831f578',1,'DualPrimal::nP()']]],
+  ['nprimal',['nPrimal',['../classCreateBdNodes.html#ae62127a84e0c03c757cd53fe2e4846c9',1,'CreateBdNodes::nPrimal()'],['../classDualPrimal.html#a59c108c22a5bfa85fd2b4fa8969799f1',1,'DualPrimal::nPrimal()']]],
+  ['npu',['npu',['../classEsquemaMEMPI.html#ad35435ab6d3a952da5faeef28c52e8e2',1,'EsquemaMEMPI']]],
+  ['nta',['nta',['../classDPMainMPI.html#a981c9e415633460fc204713a07067fa3',1,'DPMainMPI']]],
+  ['ntype',['ntype',['../classRectSub.html#a21cb0126f2961922c98c3dd50afe4b81',1,'RectSub']]]
+];

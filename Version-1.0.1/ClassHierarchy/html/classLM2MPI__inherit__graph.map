@@ -1,0 +1,8 @@
+<map id="LM2MPI" name="LM2MPI">
+<area shape="rect" id="node2" href="$classDPMainMPI.html" title="Clase base para definir a los metodos DVS&#45;DDM." alt="" coords="69,651,221,941"/>
+<area shape="rect" id="node4" href="$classEsquemaMEMPI.html" title="Clase base para definir el Esquema Maestro&#45;Esclavo en MPI." alt="" coords="5,273,219,482"/>
+<area shape="rect" id="node6" href="$classLM2.html" title="{LM2\n|&#45; up\l&#45; uf\l&#45; ug\l&#45; f\l&#45; op\l|+ LM2()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="263,683,356,909"/>
+<area shape="rect" id="node8" href="$classDPMethod.html" title="{DPMethod\n|# props\l# printv\l# epsilon\l# nDual\l# nOmega\l# nDim\l# dualp\l# inter\l# u\l# rhss\land 7 more...\l|+ DPMethod()\l+ ~DPMethod()\l+ initialize()\l+ clean()\l+ genInverse()\l+ getSize()\l+ print()\l+ printTime()\l+ prCoord()\l+ rhs()\l+ solve()\l+ analyticSolution()\l+ conditionalNumber()\l# iniInterchage()\l}" alt="" coords="243,153,411,602"/>
+<area shape="rect" id="node10" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="225,6,319,103"/>
+<area shape="rect" id="node12" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="343,14,417,95"/>
+</map>

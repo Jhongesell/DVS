@@ -1,0 +1,10 @@
+<map id="Interchange" name="Interchange">
+<area shape="rect" id="node2" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="159,855,273,1079"/>
+<area shape="rect" id="node3" href="$classProperties.html" title="{Properties\n||+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="152,549,275,700"/>
+<area shape="rect" id="node4" href="$classErrorControl.html" title="Error Control. " alt="" coords="157,160,309,384"/>
+<area shape="rect" id="node8" href="$classCreateBdNodes.html" title="{CreateBdNodes\n||+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="394,579,553,671"/>
+<area shape="rect" id="node17" href="$classEllipOp.html" title="{EllipOp\n||+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="705,855,831,1079"/>
+<area shape="rect" id="node13" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="840,564,960,685"/>
+<area shape="rect" id="node15" href="$classPrimal.html" title="{Primal\n||+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="1145,724,1244,831"/>
+<area shape="rect" id="node12" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="1035,921,1127,1013"/>
+</map>

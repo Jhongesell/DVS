@@ -1,0 +1,9 @@
+<map id="ICGM" name="ICGM">
+<area shape="rect" id="node2" href="$classCGM.html" title="{CGM\n|# n\l# r\l# p\l# v\l# alpha\l# beta\l# gamma\l# lambda\l# eps\l# mu\l# nIter\l# nMaxIter\l|+ CGM()\l+ CGM()\l+ ~CGM()\l+ clean()\l+ inicializa()\l+ solve()\l+ getIter()\l+ setMaxIter()\l+ setEpsilon()\l# norm()\l}" alt="" coords="199,1009,313,1410"/>
+<area shape="rect" id="node4" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="57,451,169,613"/>
+<area shape="rect" id="node12" href="$classErrorControl.html" title="Error Control." alt="" coords="151,169,303,426"/>
+<area shape="rect" id="node8" href="$classDotProd.html" title="{DotProd\n||+ dot()\l}" alt="" coords="5,686,80,767"/>
+<area shape="rect" id="node23" href="$classMatrizDispersa.html" title="{MatrizDispersa\n||+ MatrizDispersa()\l+ MatrizDispersa()\l+ ~MatrizDispersa()\l+ tamanoBanda()\l+ inicializa()\l+ asigna()\l+ retorna()\l+ retornaNumeroColumnasBanda()\l+ retornaNumeroColumna()\l+ retornaValorColumna()\l+ multiplica()\l+ visualiza()\l+ visualizaMatricesInternas()\l&#45; solicitaMemoria()\l}" alt="" coords="597,1065,848,1354"/>
+<area shape="rect" id="node25" href="$classMatriz__Base.html" title="Clase base para el trabajar con matrices." alt="" coords="676,638,817,815"/>
+<area shape="rect" id="node17" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="341,678,435,775"/>
+</map>

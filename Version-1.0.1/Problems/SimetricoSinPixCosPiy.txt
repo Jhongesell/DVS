@@ -1,0 +1,20 @@
+﻿
+El Problema a resolver es:
+
+-Laplaciano (u) + cu =(1+2pi*pi)Sin(pix)Cos(piy); (x,y) en [0,1]X[0,1]
+u(x,y,z)=Sin(pix)Cos(piy) en la frontera
+u(x,y,z)=Sin(pix)Cos(piy) Es la solucion del problema
+
+
+d 2			// EL problema está definido en 2 Dimensiones
+ax 1.0			// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0			// Entrada a(2,2) de la matriz para la forma de divergencia
+bx 0.0	   		// Entrada b(1) del vector correspondiente al término advectivo
+by 0.0			// Entrada b(2) del vector correspondiente al término advectivo
+c  1.0			// Coeficiente del término lineal
+f SinPixCosPiy		// Función del lado derecho, en este caso f=(1+2pi*pi)Sin(pix)Cos(piy)
+fc 1.0			// Coeficiente correspondiente a la función del lado derecho
+g SinPixCosPiy		// Condición de frontera; u(x,y)=SinPixCosPiy
+gc 1.0			// Coeficiente de la función de frontera; igual a 1.0
+pr vertex		// Los primales están definidos en los vertices
+

@@ -1,0 +1,20 @@
+<map id="DotProd" name="DotProd">
+<area shape="rect" id="node3" href="$classDPMethod.html" title="{DPMethod\n|# props\l# printv\l# epsilon\l# nDual\l# nOmega\l# nDim\l# dualp\l# inter\l# u\l# rhss\land 7 more...\l|+ DPMethod()\l+ ~DPMethod()\l+ initialize()\l+ clean()\l+ genInverse()\l+ getSize()\l+ print()\l+ printTime()\l+ prCoord()\l+ rhs()\l+ solve()\l+ analyticSolution()\l+ conditionalNumber()\l# iniInterchage()\l}" alt="" coords="508,137,676,586"/>
+<area shape="rect" id="node37" href="$classICGM.html" title="Clase para implementar CGM con matrices bandadas o dispersas." alt="" coords="700,265,793,458"/>
+<area shape="rect" id="node5" href="$classLM1.html" title="{LM1\n|&#45; up\l&#45; uf\l&#45; f\l&#45; op\l|+ LM1()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="40,643,133,853"/>
+<area shape="rect" id="node9" href="$classLM2.html" title="{LM2\n|&#45; up\l&#45; uf\l&#45; ug\l&#45; f\l&#45; op\l|+ LM2()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="192,635,285,861"/>
+<area shape="rect" id="node13" href="$classMF1.html" title="{MF1\n|&#45; op\l|+ MF1()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="344,667,437,829"/>
+<area shape="rect" id="node17" href="$classMF2.html" title="{MF2\n|&#45; up\l&#45; op\l|+ MF2()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="483,659,576,837"/>
+<area shape="rect" id="node21" href="$classPLM1.html" title="{PLM1\n|&#45; up\l&#45; uf\l&#45; f\l&#45; op\l|+ PLM1()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="608,643,701,853"/>
+<area shape="rect" id="node25" href="$classPLM2.html" title="{PLM2\n|&#45; up\l&#45; uf\l&#45; ug\l&#45; f\l&#45; op\l|+ PLM2()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="743,635,836,861"/>
+<area shape="rect" id="node29" href="$classPMF1.html" title="{PMF1\n|&#45; op\l|+ PMF1()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="895,667,988,829"/>
+<area shape="rect" id="node33" href="$classPMF2.html" title="{PMF2\n|&#45; up\l&#45; uf\l&#45; op\l|+ PMF2()\l+ clean()\l+ dot()\l+ multOp()\l+ rhs()\l+ solve()\l}" alt="" coords="1081,651,1175,845"/>
+<area shape="rect" id="node7" href="$classLM1MPI.html" title="Clase para definir el metodo LM&#45;1 de DVS&#45;DDM." alt="" coords="5,910,133,1039"/>
+<area shape="rect" id="node11" href="$classLM2MPI.html" title="Clase para definir el metodo LM&#45;2 de DVS&#45;DDM." alt="" coords="157,910,285,1039"/>
+<area shape="rect" id="node15" href="$classMF1MPI.html" title="Clase para definir el metodo MF&#45;1 de DVS&#45;DDM." alt="" coords="309,910,437,1039"/>
+<area shape="rect" id="node19" href="$classMF2MPI.html" title="Clase para definir el metodo MF&#45;2 de DVS&#45;DDM." alt="" coords="461,910,589,1039"/>
+<area shape="rect" id="node23" href="$classPLM1MPI.html" title="Clase para definir el metodo PLM&#45;1 de DVS&#45;DDM." alt="" coords="613,910,741,1039"/>
+<area shape="rect" id="node27" href="$classPLM2MPI.html" title="Clase para definir el metodo MF&#45;1 de DVS&#45;DDM." alt="" coords="765,910,893,1039"/>
+<area shape="rect" id="node31" href="$classPMF1MPI.html" title="Clase para definir el metodo PMF&#45;1 de DVS&#45;DDM." alt="" coords="917,910,1045,1039"/>
+<area shape="rect" id="node35" href="$classPMF2MPI.html" title="Clase para definir el metodo PMF&#45;2 de DVS&#45;DDM." alt="" coords="1069,910,1197,1039"/>
+</map>

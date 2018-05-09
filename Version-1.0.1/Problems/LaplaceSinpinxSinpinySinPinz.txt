@@ -1,0 +1,21 @@
+﻿
+El Problema a resolver es: 
+-Laplaciano(u) = 3*pi*pi*n*n*sen(pinx)sen(piny)sen(pinz); (x,y,z) en [-1,1]X[-1,1]X[-1,1]
+u(x,y,z)=0 en la frontera
+u(x,y,z)=sen(pinx)sen(piny)sen(pinz) Es la solucion del problema
+
+
+d 3			// EL problema está definido en 3 Dimensiones
+ax 1.0			// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0			// Entrada a(2,2) de la matriz para la forma de divergencia
+az 1.0			// Entrada a(3,3) de la matriz para la forma de divergencia
+c 0.0	   		// Coeficiente del término lineal
+bx 0.0			// Entrada b(1) del vector correspondiente al término advectivo
+by 0.0			// Entrada b(2) del vector correspondiente al término advectivo
+bz 0.0			// Entrada b(3) del vector correspondiente al término advectivo
+f SinPinxSinPinySinPinz	// Función del lado derecho, en este caso SinPinxSinPinySinPinz = 3*pi*pi*n*n*sen(pinx)sen(piny)sen(pinz)
+fc 1.0			// Coeficiente correspondiente a la función del lado derecho
+g const			// Condición de frontera; u(x,y)=0
+gc 0.0			// Coeficiente de la función de frontera; igual a 0
+pr vertedge		// Los primales están definidos en los vertices
+

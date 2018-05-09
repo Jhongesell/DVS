@@ -1,0 +1,92 @@
+# Corrida de prueba NoSimetricoConceicao, debe ser compilado definiendo COEF_CONSTANTES_ESTABILIZA en Definiciones.hpp
+
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 8  -Mx 64 -bx 100.0 -by 300.0  > PMF11a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 32 -bx 100.0 -by 300.0  > PMF11b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 32 -Mx 16 -bx 100.0 -by 300.0  > PMF11c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 64 -Mx 8  -bx 100.0 -by 300.0  > PMF11d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 8  -Mx 64 -bx 1000.0 -by 3000.0  > PMF12a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 32 -bx 1000.0 -by 3000.0  > PMF12b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 32 -Mx 16 -bx 1000.0 -by 3000.0  > PMF12c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 64 -Mx 8  -bx 1000.0 -by 3000.0  > PMF12d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 8  -Mx 64 -bx 10000.0 -by 30000.0  > PMF13a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 32 -bx 10000.0 -by 30000.0  > PMF13b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 32 -Mx 16 -bx 10000.0 -by 30000.0  > PMF13c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 64 -Mx 8  -bx 10000.0 -by 30000.0  > PMF13d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 8  -Mx 64 -bx 100000.0 -by 300000.0  > PMF14a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 16 -Mx 32 -bx 100000.0 -by 300000.0  > PMF14b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 32 -Mx 16 -bx 100000.0 -by 300000.0  > PMF14c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF1 -p 3 -Nx 64 -Mx 8  -bx 100000.0 -by 300000.0  > PMF14d.txt
+echo "PMF1"
+grep itera PMF1*.txt
+
+
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 8  -Mx 64 -bx 100.0 -by 300.0  > PMF21a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 16 -Mx 32 -bx 100.0 -by 300.0  > PMF21b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 32 -Mx 16 -bx 100.0 -by 300.0  > PMF21c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 64 -Mx 8  -bx 100.0 -by 300.0  > PMF21d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 8  -Mx 64 -bx 1000.0 -by 3000.0  > PMF22a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 16 -Mx 32 -bx 1000.0 -by 3000.0  > PMF22b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 32 -Mx 16 -bx 1000.0 -by 3000.0  > PMF22c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 64 -Mx 8  -bx 1000.0 -by 3000.0  > PMF22d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 8  -Mx 64 -bx 10000.0 -by 30000.0  > PMF23a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 16 -Mx 32 -bx 10000.0 -by 30000.0  > PMF23b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 32 -Mx 16 -bx 10000.0 -by 30000.0  > PMF23c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 64 -Mx 8  -bx 10000.0 -by 30000.0  > PMF23d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 8  -Mx 64 -bx 100000.0 -by 300000.0  > PMF24a.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 16 -Mx 32 -bx 100000.0 -by 300000.0  > PMF24b.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 32 -Mx 16 -bx 100000.0 -by 300000.0  > PMF24c.txt
+./DVS-DDM file NoSimetricoConceicao -m PMF2 -p 3 -Nx 64 -Mx 8  -bx 100000.0 -by 300000.0  > PMF24d.txt
+echo "PMF2"
+grep itera PMF2*.txt
+
+
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 8  -Mx 64 -bx 100.0 -by 300.0  > PLM11a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 16 -Mx 32 -bx 100.0 -by 300.0  > PLM11b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 32 -Mx 16 -bx 100.0 -by 300.0  > PLM11c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 64 -Mx 8  -bx 100.0 -by 300.0  > PLM11d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 8  -Mx 64 -bx 1000.0 -by 3000.0  > PLM12a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 16 -Mx 32 -bx 1000.0 -by 3000.0  > PLM12b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 32 -Mx 16 -bx 1000.0 -by 3000.0  > PLM12c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 64 -Mx 8  -bx 1000.0 -by 3000.0  > PLM12d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 8  -Mx 64 -bx 10000.0 -by 30000.0  > PLM13a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 16 -Mx 32 -bx 10000.0 -by 30000.0  > PLM13b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 32 -Mx 16 -bx 10000.0 -by 30000.0  > PLM13c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 64 -Mx 8  -bx 10000.0 -by 30000.0  > PLM13d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 8  -Mx 64 -bx 100000.0 -by 300000.0  > PLM14a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 16 -Mx 32 -bx 100000.0 -by 300000.0  > PLM14b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 32 -Mx 16 -bx 100000.0 -by 300000.0  > PLM14c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM1 -p 3 -Nx 64 -Mx 8  -bx 100000.0 -by 300000.0  > PLM14d.txt
+echo "PLM1"
+grep itera PLM1*.txt
+
+
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 8  -Mx 64 -bx 100.0 -by 300.0  > PLM21a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 16 -Mx 32 -bx 100.0 -by 300.0  > PLM21b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 32 -Mx 16 -bx 100.0 -by 300.0  > PLM21c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 64 -Mx 8  -bx 100.0 -by 300.0  > PLM21d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 8  -Mx 64 -bx 1000.0 -by 3000.0  > PLM22a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 16 -Mx 32 -bx 1000.0 -by 3000.0  > PLM22b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 32 -Mx 16 -bx 1000.0 -by 3000.0  > PLM22c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 64 -Mx 8  -bx 1000.0 -by 3000.0  > PLM22d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 8  -Mx 64 -bx 10000.0 -by 30000.0  > PLM23a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 16 -Mx 32 -bx 10000.0 -by 30000.0  > PLM23b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 32 -Mx 16 -bx 10000.0 -by 30000.0  > PLM23c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 64 -Mx 8  -bx 10000.0 -by 30000.0  > PLM23d.txt
+
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 8  -Mx 64 -bx 100000.0 -by 300000.0  > PLM24a.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 16 -Mx 32 -bx 100000.0 -by 300000.0  > PLM24b.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 32 -Mx 16 -bx 100000.0 -by 300000.0  > PLM24c.txt
+./DVS-DDM file NoSimetricoConceicao -m PLM2 -p 3 -Nx 64 -Mx 8  -bx 100000.0 -by 300000.0  > PLM24d.txt
+echo "PLM2"
+grep itera PLM2*.txt

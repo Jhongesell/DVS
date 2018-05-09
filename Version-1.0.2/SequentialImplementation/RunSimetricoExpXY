@@ -1,0 +1,34 @@
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 2 >plm102.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 4 >plm104.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 6 >plm106.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 8 >plm108.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 10 >plm110.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 12 >plm112.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 14 >plm114.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 16 >plm116.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 18 >plm118.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 20 >plm120.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 22 >plm122.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 24 >plm124.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 26 >plm126.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 28 >plm128.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM1 -Nx 30 >plm130.txt
+
+
+
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 2 >plm202.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 4 >plm204.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 6 >plm206.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 8 >plm208.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 10 >plm210.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 12 >plm212.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 14 >plm214.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 16 >plm216.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 18 >plm218.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 20 >plm220.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 22 >plm222.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 24 >plm224.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 26 >plm226.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 28 >plm228.txt
+./DVS-DDM file SimetricoExpXY -p 3 -m PLM2 -Nx 30 >plm230.txt
+

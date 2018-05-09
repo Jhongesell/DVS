@@ -1,0 +1,12 @@
+<map id="InterchangeMPI" name="InterchangeMPI">
+<area shape="rect" id="node2" href="$classInterchange.html" title="{Interchange\n|# bdValues\l# nOmega\l# nDim\l# zero\l# one\l# f\l# g\l# sf\l# sg\l# fc\land 16 more...\l|+ Interchange()\l+ Interchange()\l+ ~Interchange()\l+ initialize()\l+ calcSP()\l+ getND()\l+ getNP()\l+ getNPrimals()\l+ getNDuals()\l+ getnOmega()\land 29 more...\l# genGeom()\l}" alt="" coords="505,1555,639,1973"/>
+<area shape="rect" id="node4" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="1009,1161,1121,1402"/>
+<area shape="rect" id="node6" href="$classProperties.html" title="{Properties\n|# keys\l# vals\l|+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="1004,643,1127,821"/>
+<area shape="rect" id="node8" href="$classErrorControl.html" title="Error Control." alt="" coords="847,169,999,426"/>
+<area shape="rect" id="node17" href="$classCreateBdNodes.html" title="{CreateBdNodes\n|+ nD\l+ nP\l+ nDual\l+ nPrimal\l+ maxBd\l+ ibd\l+ ibdAll\l+ dualMult\l+ bdAll\l+ bdDuals\l+ bdPrimals\l|+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="497,603,655,861"/>
+<area shape="rect" id="node45" href="$classEsquemaMEMPI.html" title="Clase base para definir el Esquema Maestro&#45;Esclavo en MPI." alt="" coords="679,635,892,829"/>
+<area shape="rect" id="node39" href="$classEllipOp.html" title="{EllipOp\n|+ a\l+ b\l+ c\l+ f\l+ g\l+ sol\l|+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="109,1121,235,1442"/>
+<area shape="rect" id="node28" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="303,667,423,797"/>
+<area shape="rect" id="node34" href="$classPrimal.html" title="{Primal\n|+ KNOWN\l+ INTERIOR\l+ INTBD\l+ VERTEX\l+ EDGE\l+ FACE\l+ PRIMAL\l|+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="437,886,536,1095"/>
+<area shape="rect" id="node26" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="360,1233,451,1330"/>
+</map>

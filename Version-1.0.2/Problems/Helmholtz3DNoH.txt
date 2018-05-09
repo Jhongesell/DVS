@@ -1,0 +1,21 @@
+﻿PENDIENTE
+El Problema a resolver es: 
+-Laplaciano(u)-k'2u =0; (x,y,z) en [-1,1]X[-1,1]X[-1,1]
+u(x,y,z)=0 en la frontera
+
+
+
+d 3   			// EL problema está definido en 2 Dimensiones
+ax 1.0			// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0			// Entrada a(2,2) de la matriz para la forma de divergencia
+az 1.0			// Entrada a(3,3) de la matriz para la forma de divergencia
+c -10.0	   	// Coeficiente del término lineal
+bx 0.0			// Entrada b(1) del vector correspondiente al término advectivo
+by 0.0			// Entrada b(2) del vector correspondiente al término advectivo
+bz 0.0			// Entrada b(3) del vector correspondiente al término advectivo
+f const			// Función del lado derecho, en este caso 
+fc 1.0			// Coeficiente correspondiente a la función del lado derecho
+g const			// Condición de frontera; u(x,y)=
+gc 1.0			// Coeficiente de la función de frontera; igual a 1
+pr vertedge		// Los primales están definidos en los vertices
+

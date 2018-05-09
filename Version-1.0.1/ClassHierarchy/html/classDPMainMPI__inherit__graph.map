@@ -1,0 +1,11 @@
+<map id="DPMainMPI" name="DPMainMPI">
+<area shape="rect" id="node5" href="$classLM1MPI.html" title="Clase para definir el metodo LM&#45;1 de DVS&#45;DDM." alt="" coords="5,603,133,733"/>
+<area shape="rect" id="node7" href="$classLM2MPI.html" title="Clase para definir el metodo LM&#45;2 de DVS&#45;DDM." alt="" coords="157,603,285,733"/>
+<area shape="rect" id="node9" href="$classMF1MPI.html" title="Clase para definir el metodo MF&#45;1 de DVS&#45;DDM." alt="" coords="309,603,437,733"/>
+<area shape="rect" id="node11" href="$classMF2MPI.html" title="Clase para definir el metodo MF&#45;2 de DVS&#45;DDM." alt="" coords="461,603,589,733"/>
+<area shape="rect" id="node13" href="$classPLM1MPI.html" title="Clase para definir el metodo PLM&#45;1 de DVS&#45;DDM." alt="" coords="613,603,741,733"/>
+<area shape="rect" id="node15" href="$classPLM2MPI.html" title="Clase para definir el metodo MF&#45;1 de DVS&#45;DDM." alt="" coords="765,603,893,733"/>
+<area shape="rect" id="node17" href="$classPMF1MPI.html" title="Clase para definir el metodo PMF&#45;1 de DVS&#45;DDM." alt="" coords="917,603,1045,733"/>
+<area shape="rect" id="node19" href="$classPMF2MPI.html" title="Clase para definir el metodo PMF&#45;2 de DVS&#45;DDM." alt="" coords="1069,603,1197,733"/>
+<area shape="rect" id="node2" href="$classEsquemaMEMPI.html" title="Clase base para definir el Esquema Maestro&#45;Esclavo en MPI." alt="" coords="495,6,708,215"/>
+</map>

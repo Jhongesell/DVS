@@ -1,0 +1,82 @@
+./DVS-DDM file SimetricoSinPixSinPiy -m MF1  -p 1 -Nx 10 > Sala.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PMF1 -p 1 -Nx 10 > Salb.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m MF2  -p 1 -Nx 10 > Salc.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PMF1 -p 1 -Nx 10 > Sald.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m LM1  -p 1 -Nx 10 > Sale.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PLM1 -p 1 -Nx 10 > Salf.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m LM2  -p 1 -Nx 10 > Salg.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PLM2 -p 1 -Nx 10 > Salh.txt
+grep itera Sal?.txt 
+
+
+
+./DVS-DDM file SimetricoSinPixSinPiy -m MF1  -p 1 -Nx 15 > Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PMF1 -p 1 -Nx 15 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m MF2  -p 1 -Nx 15 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PMF1 -p 1 -Nx 15 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m LM1  -p 1 -Nx 15 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PLM1 -p 1 -Nx 15 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m LM2  -p 1 -Nx 15 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PLM2 -p 1 -Nx 15 >> Sal.txt
+grep itera Sal.txt
+
+./DVS-DDM file SimetricoSinPixSinPiy -m MF1  -p 1 -Nx 20 > Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PMF1 -p 1 -Nx 20 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m MF2  -p 1 -Nx 20 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PMF1 -p 1 -Nx 20 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m LM1  -p 1 -Nx 20 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PLM1 -p 1 -Nx 20 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m LM2  -p 1 -Nx 20 >> Sal.txt
+./DVS-DDM file SimetricoSinPixSinPiy -m PLM2 -p 1 -Nx 20 >> Sal.txt
+grep itera Sal.txt
+
+./DVS-DDM file NoSimetricoExpXY -m MF1  -p 0 -Nx 10 > Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PMF1 -p 0 -Nx 10 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m MF2  -p 0 -Nx 10 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PMF1 -p 0 -Nx 10 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m LM1  -p 0 -Nx 10 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PLM1 -p 0 -Nx 10 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m LM2  -p 0 -Nx 10 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PLM2 -p 0 -Nx 10 >> Sal.txt
+grep itera Sal.txt
+
+./DVS-DDM file NoSimetricoExpXY -m MF1  -p 0 -Nx 15 > Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PMF1 -p 0 -Nx 15 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m MF2  -p 0 -Nx 15 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PMF1 -p 0 -Nx 15 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m LM1  -p 0 -Nx 15 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PLM1 -p 0 -Nx 15 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m LM2  -p 0 -Nx 15 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PLM2 -p 0 -Nx 15 >> Sal.txt
+grep itera Sal.txt
+
+./DVS-DDM file NoSimetricoExpXY -m MF1  -p 0 -Nx 20 > Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PMF1 -p 0 -Nx 20 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m MF2  -p 0 -Nx 20 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PMF1 -p 0 -Nx 20 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m LM1  -p 0 -Nx 20 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PLM1 -p 0 -Nx 20 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m LM2  -p 0 -Nx 20 >> Sal.txt
+./DVS-DDM file NoSimetricoExpXY -m PLM2 -p 0 -Nx 20 >> Sal.txt
+grep itera Sal.txt
+
+#./DVS-DDM file LaplaceSinpinxSinpiny -m MF1  -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PMF1 -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m MF2  -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PMF1 -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m LM1  -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PLM1 -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m LM2  -p 0 -Nx 10 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PLM2 -p 0 -Nx 10 >> Sal.txt
+#
+#
+#./DVS-DDM file LaplaceSinpinxSinpiny -m MF1  -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PMF1 -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m MF2  -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PMF1 -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m LM1  -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PLM1 -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m LM2  -p 0 -Nx 20 >> Sal.txt
+#./DVS-DDM file LaplaceSinpinxSinpiny -m PLM2 -p 0 -Nx 20 >> Sal.txt
+
+

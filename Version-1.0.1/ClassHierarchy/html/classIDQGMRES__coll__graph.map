@@ -1,0 +1,8 @@
+<map id="IDQGMRES" name="IDQGMRES">
+<area shape="rect" id="node2" href="$classDQGMRES.html" title="{DQGMRES\n|# n\l# k\l# k1\l# maxIter\l# nIter\l# gm\l# gm1\l# p\l# cs\l# h\l# q\l# v\l# eps\l# nMaxIter\l|+ DQGMRES()\l+ DQGMRES()\l+ ~DQGMRES()\l+ clean()\l+ inicializa()\l+ applyOmega()\l+ solve()\l+ getIter()\l+ setMaxIter()\l+ setEpsilon()\l}" alt="" coords="128,603,256,1037"/>
+<area shape="rect" id="node4" href="$classSolvable.html" title="{Solvable\n||+ Solvable()\l+ ~Solvable()\l+ clean()\l+ solve()\l+ getIter()\l+ getName()\l}" alt="" coords="123,217,235,378"/>
+<area shape="rect" id="node10" href="$classErrorControl.html" title="Error Control." alt="" coords="347,169,499,426"/>
+<area shape="rect" id="node18" href="$classMatrizDispersa.html" title="{MatrizDispersa\n||+ MatrizDispersa()\l+ MatrizDispersa()\l+ ~MatrizDispersa()\l+ tamanoBanda()\l+ inicializa()\l+ asigna()\l+ retorna()\l+ retornaNumeroColumnasBanda()\l+ retornaNumeroColumna()\l+ retornaValorColumna()\l+ multiplica()\l+ visualiza()\l+ visualizaMatricesInternas()\l&#45; solicitaMemoria()\l}" alt="" coords="289,1089,540,1378"/>
+<area shape="rect" id="node20" href="$classMatriz__Base.html" title="Clase base para el trabajar con matrices." alt="" coords="437,731,579,909"/>
+<area shape="rect" id="node15" href="$classMultOp.html" title="{MultOp\n||+ multOp()\l+ getSize()\l}" alt="" coords="5,249,99,346"/>
+</map>

@@ -1,0 +1,19 @@
+﻿
+El Problema a resolver es: 
+-Laplaciano(u)+u=(1-x*x-y*y)*e(xy); (x,y) en [0,1]X[0,1]
+u(x,y)=exp(xy) en la frontera
+u(x,y)=exp(xy) Es la solucion del problema
+
+
+d 2		// EL problema está definido en 2 Dimensiones
+ax 1.0		// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0		// Entrada a(2,2) de la matriz para la forma de divergencia
+c 1.0	   	// Coeficiente del término lineal
+bx 0.0		// Entrada b(1) del vector correspondiente al término advectivo
+by 0.0		// Entrada b(2) del vector correspondiente al término advectivo
+f fExpXY	// Función del lado derecho, en este caso fExpXY = (1-x*x-y*y)*e(xy)
+fc 1.0		// Coeficiente correspondiente a la función del lado derecho
+g ExpXY		// Condición de frontera; u(x,y)=exp(xy)
+gc 1.0		// Coeficiente de la función de frontera; igual a 1
+pr vertex	// Los primales están definidos en los vertices
+

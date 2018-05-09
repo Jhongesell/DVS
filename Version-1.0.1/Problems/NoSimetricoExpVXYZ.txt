@@ -1,0 +1,22 @@
+﻿
+El Problema a resolver es:
+
+-Laplaciano (u) + b gradiente(u) =0; (x,y,z) en [0,1]X[0,1]X[0,1]
+u(x,y,z)=exp(x+y+z) en la frontera
+u(x,y,z)=exp(x+y+z) Es la solucion del problema
+
+
+d 3			// EL problema está definido en 3 Dimensiones
+ax 1.0			// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0			// Entrada a(2,2) de la matriz para la forma de divergencia
+az 1.0			// Entrada a(3,3) de la matriz para la forma de divergencia
+bx 1.0	   		// Entrada b(1) del vector correspondiente al término advectivo
+by 1.0			// Entrada b(2) del vector correspondiente al término advectivo
+bz 1.0			// Entrada b(3) del vector correspondiente al término advectivo
+c  0.0			// Coeficiente del término lineal
+f const			// Función del lado derecho, en este caso f(x,y,z)=0
+fc 0.0			// Coeficiente correspondiente a la función del lado derecho
+g ExpVXYZ		// Condición de frontera; u(x,y)=exp(x+y+z)
+gc 1.0			// Coeficiente de la función de frontera; igual a 0
+pr vertedge		// Los primales están definidos en los vertices
+

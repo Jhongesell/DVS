@@ -1,0 +1,52 @@
+# Corrida de prueba LaplaceSinpinxSinpinySinpinz
+
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 2 >pmf12.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 3 >pmf13.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 4 >pmf14.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 5 >pmf15.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 6 >pmf16.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 7 >pmf17.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 8 >pmf18.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 9 >pmf19.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF1 -Nx 10 >pmf110.txt
+echo "PMF1"
+grep iter pmf1*
+
+
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 2 >pmf22.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 3 >pmf23.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 4 >pmf24.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 5 >pmf25.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 6 >pmf26.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 7 >pmf27.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 8 >pmf28.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 9 >pmf29.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PMF2 -Nx 10 >pmf210.txt
+echo "PMF2"
+grep iter pmf2*
+
+
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 2 >plm12.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 3 >plm13.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 4 >plm14.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 5 >plm15.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 6 >plm16.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 7 >plm17.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 8 >plm18.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 9 >plm19.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM1 -Nx 10 >plm110.txt
+echo "PLM1"
+grep iter plm1*
+
+
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 2 >plm22.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 3 >plm23.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 4 >plm24.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 5 >plm25.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 6 >plm26.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 7 >plm27.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 8 >plm28.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 9 >plm29.txt
+./DVS-DDM file LaplaceSinpinxSinpinySinpinz -p 3 -m PLM2 -Nx 10 >plm210.txt
+echo "PLM2"
+grep iter plm2*

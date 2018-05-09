@@ -1,0 +1,22 @@
+﻿
+El Problema a resolver es:
+
+-Laplaciano (u) + cu =(1-yz2-xz2-xy2)Exp(xyz); (x,y,z) en [0,1]X[0,1]X[0,1]
+u(x,y,z)=exp(xyz) en la frontera
+u(x,y,z)=exp(xyz) Es la solucion del problema
+
+
+d 3			// EL problema está definido en 3 Dimensiones
+ax 1.0			// Entrada a(1,1) de la matriz para la forma de divergencia
+ay 1.0			// Entrada a(2,2) de la matriz para la forma de divergencia
+az 1.0			// Entrada a(3,3) de la matriz para la forma de divergencia
+bx 0.0	   		// Entrada b(1) del vector correspondiente al término advectivo
+by 0.0			// Entrada b(2) del vector correspondiente al término advectivo
+bz 0.0			// Entrada b(3) del vector correspondiente al término advectivo
+c  1.0			// Coeficiente del término lineal
+f SfExpXYZ		// Función del lado derecho, en este caso SfExpXYZ=(1-yz2-xz2-xy2)Exp(xyz)
+fc 1.0			// Coeficiente correspondiente a la función del lado derecho
+g ExpXYZ		// Condición de frontera; u(x,y)=exp(xyz)
+gc 1.0			// Coeficiente de la función de frontera; igual a 1
+pr vertedge		// Los primales están definidos en los vertices
+

@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['matriz_5fbase',['Matriz_Base',['../classMatriz__Base.html#af2771575c148266caed622f27d83c219',1,'Matriz_Base']]],
+  ['matrizdispersa',['MatrizDispersa',['../classMatrizDispersa.html#a67a0cfa159baa45f4571ade32ad04553',1,'MatrizDispersa::MatrizDispersa(const int ren, const int col, const int ban)'],['../classMatrizDispersa.html#a24a9dfa83690db5c2d7edf7e31c0205f',1,'MatrizDispersa::MatrizDispersa(const int ren, const int col, const int ban, const char *nmb)']]],
+  ['memoryerror',['memoryError',['../classErrorControl.html#a34217bcc00b3dd78024f69721ce476d9',1,'ErrorControl::memoryError(const char *var)'],['../classErrorControl.html#aa94b844a62ba18d574ea49bedcc06a9d',1,'ErrorControl::memoryError(const char *var, int i)'],['../classErrorControl.html#a5f0037ba82fad0f9e578adefc60f1d9d',1,'ErrorControl::memoryError(const char *var, const char *func)']]],
+  ['mf1',['MF1',['../classMF1.html#a59f3f576102f4741011b13326156428d',1,'MF1']]],
+  ['mf1mpi',['MF1MPI',['../classMF1MPI.html#a2ea1432045c34443e703e294a02dcb18',1,'MF1MPI']]],
+  ['mf2',['MF2',['../classMF2.html#ad549413f0952c67af4072040aeb32829',1,'MF2']]],
+  ['mf2mpi',['MF2MPI',['../classMF2MPI.html#aaa447aba3732cb83fd0c7858e377ee01',1,'MF2MPI']]],
+  ['multbandsym',['MultBandSym',['../classMultBandSym.html#ab3a2cda5956ce9398eb7dbd7043d98ef',1,'MultBandSym']]],
+  ['multiplica',['multiplica',['../classMatrizDispersa.html#a3064d359c635c65ccac8d734b5510791',1,'MatrizDispersa']]],
+  ['multop',['multOp',['../classICGM.html#a7b0ae61b4c392e6eafd6769c077634ea',1,'ICGM::multOp()'],['../classIDQGMRES.html#a3c8b5fef031f0e1037386c7eda312888',1,'IDQGMRES::multOp()'],['../classInterchange.html#abf51cae2dfdcf989ae52560e96a91587',1,'Interchange::multOp(int e, int sc1, int sc2)'],['../classInterchange.html#a75ff170c75c8e31c444ebfe7e2505999',1,'Interchange::multOp(int sc1, int sc2)'],['../classInterchangeMPI.html#a8eded601d511a6d1aa5a6e71e17c5924',1,'InterchangeMPI::multOp()'],['../classLM1.html#afb7308772a654e96d05dc5b27c2b49a0',1,'LM1::multOp()'],['../classLM2.html#a794ef9a3606e3dcc933ef846f315d433',1,'LM2::multOp()'],['../classMF1.html#af101890b25f6833564259056098a5b7a',1,'MF1::multOp()'],['../classMF2.html#abb20d1212b6c2e933809535628a3d6f2',1,'MF2::multOp()'],['../classMultBandSym.html#aa5c459ed2c0e2a5045e74266c118fa8a',1,'MultBandSym::multOp()'],['../classMultOp.html#a0d294c53c4ae5b460dc5d72b629b5584',1,'MultOp::multOp()'],['../classPLM1.html#a5e076d50161a1604723590a6362a4d01',1,'PLM1::multOp()'],['../classPLM2.html#a8293880a29a846c5ed284cdc6e17e1b2',1,'PLM2::multOp()'],['../classPMF1.html#acda0e91b6aa7fcab29640362fd00bb84',1,'PMF1::multOp()'],['../classPMF2.html#afbe3734c64279117f6020c9936798686',1,'PMF2::multOp()'],['../classRectSub.html#a6db632a125e63c973010f82b710c3741',1,'RectSub::multOp()']]],
+  ['mults',['multS',['../classDualPrimal.html#a72b68e009a009c3ae3ef3805e83e37a7',1,'DualPrimal']]]
+];

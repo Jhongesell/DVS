@@ -1,0 +1,11 @@
+<map id="DualPrimal" name="DualPrimal">
+<area shape="rect" id="node5" href="$classInterchange.html" title="{Interchange\n|# fc\l# gc\l# domain\l# c\l|+ Interchange()\l+ Interchange()\l+ ~Interchange()\l+ initialize()\l+ calcSP()\l+ getND()\l+ getNP()\l+ getNPrimals()\l+ getNDuals()\l+ getnOmega()\land 29 more...\l# genGeom()\l}" alt="" coords="713,1185,847,1468"/>
+<area shape="rect" id="node18" href="$classEllipOp.html" title="{EllipOp\n||+ EllipOp()\l+ EllipOp()\l+ ~EllipOp()\l+ getA()\l+ getB()\l+ getC()\l+ getF()\l+ getG()\l+ setF()\l+ setG()\l+ isSymmetric()\l}" alt="" coords="634,855,761,1079"/>
+<area shape="rect" id="node3" href="$classErrorControl.html" title="Error Control. " alt="" coords="5,160,157,384"/>
+<area shape="rect" id="node7" href="$classProperties.html" title="{Properties\n||+ Properties()\l+ getProperty()\l+ getProperty()\l+ setProperty()\l+ list()\l+ load()\l}" alt="" coords="508,549,631,700"/>
+<area shape="rect" id="node9" href="$classCreateBdNodes.html" title="{CreateBdNodes\n||+ CreateBdNodes()\l+ ~CreateBdNodes()\l}" alt="" coords="187,579,346,671"/>
+<area shape="rect" id="node6" href="$classPropDef.html" title="{PropDef\n||+ PropDef()\l+ PropDef()\l+ PropDef()\l+ parse()\l+ parse()\l+ getDouble()\l+ getDouble()\l+ getInt()\l+ getInt()\l+ getString()\l+ getString()\l}" alt="" coords="497,855,610,1079"/>
+<area shape="rect" id="node14" href="$classFunctionV.html" title="{FunctionV\n||+ FunctionV()\l+ ~FunctionV()\l+ eval()\l+ dimension()\l}" alt="" coords="868,564,988,685"/>
+<area shape="rect" id="node16" href="$classPrimal.html" title="{Primal\n||+ Primal()\l+ ~Primal()\l+ isPrimal()\l}" alt="" coords="1035,724,1133,831"/>
+<area shape="rect" id="node13" href="$classFunctionV1.html" title="{FunctionV1\n||+ setVar()\l+ getVar()\l}" alt="" coords="785,921,877,1013"/>
+</map>
